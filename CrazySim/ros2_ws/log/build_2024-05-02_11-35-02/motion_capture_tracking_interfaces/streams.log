@@ -1,0 +1,256 @@
+[0.006s] Invoking command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/src/motion_capture_tracking/motion_capture_tracking_interfaces -DCMAKE_INSTALL_PREFIX=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces
+[0.055s] -- The C compiler identification is GNU 11.4.0
+[0.093s] -- The CXX compiler identification is GNU 11.4.0
+[0.099s] -- Detecting C compiler ABI info
+[0.154s] -- Detecting C compiler ABI info - done
+[0.158s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.158s] -- Detecting C compile features
+[0.158s] -- Detecting C compile features - done
+[0.160s] -- Detecting CXX compiler ABI info
+[0.218s] -- Detecting CXX compiler ABI info - done
+[0.223s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.223s] -- Detecting CXX compile features
+[0.223s] -- Detecting CXX compile features - done
+[0.226s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.338s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.404s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.432s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.436s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.443s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.452s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.466s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.479s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.533s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.731s] -- Found ament_cmake_cppcheck: 0.12.10 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[0.733s] -- Found ament_cmake_cpplint: 0.12.10 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[0.735s] -- Found ament_cmake_uncrustify: 0.12.10 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[0.738s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.023s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.137s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.155s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.157s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.178s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.178s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.178s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.178s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.197s] -- Found PythonExtra: .so  
+[1.239s] -- Found ament_cmake_flake8: 0.12.10 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[1.241s] -- Found ament_cmake_pep257: 0.12.10 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[1.246s] -- Configuring done
+[1.269s] -- Generating done
+[1.271s] -- Build files have been written to: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces
+[1.280s] Invoked command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/src/motion_capture_tracking/motion_capture_tracking_interfaces -DCMAKE_INSTALL_PREFIX=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces
+[1.281s] Invoking command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces -- -j16 -l16
+[1.313s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.321s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.329s] [  5%] Built target ament_cmake_python_copy_motion_capture_tracking_interfaces
+[1.485s] running egg_info
+[1.485s] creating motion_capture_tracking_interfaces.egg-info
+[1.485s] writing motion_capture_tracking_interfaces.egg-info/PKG-INFO
+[1.485s] writing dependency_links to motion_capture_tracking_interfaces.egg-info/dependency_links.txt
+[1.485s] writing top-level names to motion_capture_tracking_interfaces.egg-info/top_level.txt
+[1.486s] writing manifest file 'motion_capture_tracking_interfaces.egg-info/SOURCES.txt'
+[1.487s] reading manifest file 'motion_capture_tracking_interfaces.egg-info/SOURCES.txt'
+[1.487s] writing manifest file 'motion_capture_tracking_interfaces.egg-info/SOURCES.txt'
+[1.494s] [  5%] Built target motion_capture_tracking_interfaces__cpp
+[1.503s] [ 10%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.503s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.504s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.505s] [ 15%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_generator_c.dir/rosidl_generator_c/motion_capture_tracking_interfaces/msg/detail/named_pose__functions.c.o[0m
+[1.508s] [ 17%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_generator_c.dir/rosidl_generator_c/motion_capture_tracking_interfaces/msg/detail/named_pose_array__functions.c.o[0m
+[1.514s] [ 17%] Built target ament_cmake_python_build_motion_capture_tracking_interfaces_egg
+[1.553s] [ 20%] [32m[1mLinking C shared library libmotion_capture_tracking_interfaces__rosidl_generator_c.so[0m
+[1.583s] [ 20%] Built target motion_capture_tracking_interfaces__rosidl_generator_c
+[1.592s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.592s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.593s] [ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.672s] [ 33%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/motion_capture_tracking_interfaces/msg/named_pose_array__type_support.cpp.o[0m
+[1.672s] [ 33%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/motion_capture_tracking_interfaces/msg/named_pose__type_support.cpp.o[0m
+[1.679s] [ 35%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/motion_capture_tracking_interfaces/msg/detail/dds_fastrtps/named_pose__type_support.cpp.o[0m
+[1.680s] [ 38%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/motion_capture_tracking_interfaces/msg/detail/dds_fastrtps/named_pose_array__type_support.cpp.o[0m
+[1.714s] [ 41%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.cpp.o[0m
+[1.715s] [ 43%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support.cpp.o[0m
+[1.767s] [ 46%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support_c.cpp.o[0m
+[1.769s] [ 48%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support_c.cpp.o[0m
+[1.772s] [ 51%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.c.o[0m
+[1.772s] [ 53%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support.c.o[0m
+[1.809s] [ 56%] [32m[1mLinking C shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_c.so[0m
+[1.820s] [ 58%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/motion_capture_tracking_interfaces/msg/named_pose_array__type_support.cpp.o[0m
+[1.820s] [ 61%] [32mBuilding CXX object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/motion_capture_tracking_interfaces/msg/named_pose__type_support.cpp.o[0m
+[1.843s] [ 61%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c
+[1.852s] [ 64%] [32m[1mLinking CXX shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_c.so[0m
+[1.891s] [ 66%] [32m[1mLinking CXX shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_cpp.so[0m
+[1.898s] [ 66%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_c
+[1.922s] [ 66%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_cpp
+[1.978s] [ 69%] [32m[1mLinking CXX shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[2.005s] [ 71%] [32m[1mLinking CXX shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[2.036s] [ 74%] [32m[1mLinking CXX shared library libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[2.036s] [ 74%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp
+[2.061s] [ 74%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp
+[2.093s] [ 74%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c
+[2.114s] [ 74%] Built target motion_capture_tracking_interfaces
+[2.132s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[2.413s] [ 76%] Built target motion_capture_tracking_interfaces__py
+[2.430s] [ 82%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_generator_py.dir/rosidl_generator_py/motion_capture_tracking_interfaces/msg/_named_pose_array_s.c.o[0m
+[2.431s] [ 82%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_generator_py.dir/rosidl_generator_py/motion_capture_tracking_interfaces/msg/_named_pose_s.c.o[0m
+[2.518s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/motion_capture_tracking_interfaces/libmotion_capture_tracking_interfaces__rosidl_generator_py.so[0m
+[2.550s] [ 84%] Built target motion_capture_tracking_interfaces__rosidl_generator_py
+[2.573s] [ 87%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.575s] [ 89%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[2.576s] [ 92%] [32mBuilding C object CMakeFiles/motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.644s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.664s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.665s] [100%] [32m[1mLinking C shared library rosidl_generator_py/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.673s] [100%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_c__pyext
+[2.693s] [100%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c__pyext
+[2.693s] [100%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[2.703s] Invoked command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces -- -j16 -l16
+[2.780s] Invoking command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces
+[2.786s] -- Install configuration: ""
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/ament_index/resource_index/rosidl_interfaces/motion_capture_tracking_interfaces
+[2.787s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.787s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.787s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__functions.h
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__struct.h
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__struct.h
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support.h
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__functions.h
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__functions.c
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__functions.c
+[2.787s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.h
+[2.788s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/named_pose.h
+[2.788s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/named_pose_array.h
+[2.788s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/rosidl_generator_c__visibility_control.h
+[2.788s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/environment/library_path.dsv
+[2.788s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_generator_c.so
+[2.789s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_generator_c.so" to ""
+[2.789s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.789s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.789s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.789s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__rosidl_typesupport_fastrtps_c.h
+[2.789s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__rosidl_typesupport_fastrtps_c.h
+[2.789s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.789s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c.so
+[2.790s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[2.790s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.790s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.790s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.790s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__traits.hpp
+[2.790s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__struct.hpp
+[2.790s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__traits.hpp
+[2.790s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__builder.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__struct.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__builder.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/named_pose.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/named_pose_array.hpp
+[2.791s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.791s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.791s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__rosidl_typesupport_fastrtps_cpp.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__rosidl_typesupport_fastrtps_cpp.hpp
+[2.791s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/dds_fastrtps
+[2.792s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.792s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[2.793s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[2.793s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.793s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.793s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.793s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__rosidl_typesupport_introspection_c.h
+[2.793s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support.c
+[2.793s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__rosidl_typesupport_introspection_c.h
+[2.793s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.c
+[2.794s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.794s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_c.so
+[2.794s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[2.794s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_c.so
+[2.795s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_c.so" to ""
+[2.795s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces
+[2.795s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg
+[2.796s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail
+[2.796s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__rosidl_typesupport_introspection_cpp.hpp
+[2.796s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__rosidl_typesupport_introspection_cpp.hpp
+[2.796s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose_array__type_support.cpp
+[2.797s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/include/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.cpp
+[2.798s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp.so
+[2.799s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[2.799s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_cpp.so
+[2.799s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_typesupport_cpp.so" to ""
+[2.799s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/environment/pythonpath.sh
+[2.800s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/environment/pythonpath.dsv
+[2.800s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces-1.0.5-py3.10.egg-info
+[2.800s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces-1.0.5-py3.10.egg-info/top_level.txt
+[2.800s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces-1.0.5-py3.10.egg-info/SOURCES.txt
+[2.801s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces-1.0.5-py3.10.egg-info/dependency_links.txt
+[2.801s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces-1.0.5-py3.10.egg-info/PKG-INFO
+[2.801s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces
+[2.801s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/libmotion_capture_tracking_interfaces__rosidl_generator_py.so
+[2.802s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.802s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[2.802s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_c.c
+[2.803s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg
+[2.803s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose_s.c
+[2.803s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose.py
+[2.804s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose_array.py
+[2.804s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/__init__.py
+[2.804s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose_array_s.c
+[2.805s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.805s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.805s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/__init__.py
+[2.806s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/_motion_capture_tracking_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.840s] Listing '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces'...
+[2.840s] Compiling '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/__init__.py'...
+[2.840s] Listing '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg'...
+[2.840s] Compiling '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/__init__.py'...
+[2.840s] Compiling '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose.py'...
+[2.840s] Compiling '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/msg/_named_pose_array.py'...
+[2.851s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.851s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.852s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.852s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.853s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.853s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages/motion_capture_tracking_interfaces/motion_capture_tracking_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[2.853s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_generator_py.so
+[2.854s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib/libmotion_capture_tracking_interfaces__rosidl_generator_py.so" to ""
+[2.854s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/msg/NamedPose.idl
+[2.854s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/msg/NamedPoseArray.idl
+[2.855s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/msg/NamedPose.msg
+[2.855s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/msg/NamedPoseArray.msg
+[2.855s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/ament_index/resource_index/package_run_dependencies/motion_capture_tracking_interfaces
+[2.855s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/ament_index/resource_index/parent_prefix_path/motion_capture_tracking_interfaces
+[2.856s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/environment/ament_prefix_path.dsv
+[2.856s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/environment/path.dsv
+[2.856s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/local_setup.bash
+[2.857s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/local_setup.sh
+[2.857s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/local_setup.zsh
+[2.857s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/local_setup.dsv
+[2.858s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/package.dsv
+[2.858s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/ament_index/resource_index/packages/motion_capture_tracking_interfaces
+[2.859s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_generator_cExport.cmake
+[2.859s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_generator_cExport-noconfig.cmake
+[2.859s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[2.860s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.860s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_generator_cppExport.cmake
+[2.861s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.861s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.862s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[2.862s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.862s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_cExport.cmake
+[2.863s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[2.875s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[2.875s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.875s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_cppExport.cmake
+[2.876s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[2.876s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_generator_pyExport.cmake
+[2.876s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/export_motion_capture_tracking_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[2.877s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/rosidl_cmake-extras.cmake
+[2.877s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.877s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.878s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[2.878s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[2.879s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.879s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.880s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfacesConfig.cmake
+[2.880s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake/motion_capture_tracking_interfacesConfig-version.cmake
+[2.880s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/package.xml
+[2.888s] Invoked command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces

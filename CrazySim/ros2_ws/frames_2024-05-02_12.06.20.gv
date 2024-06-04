@@ -1,0 +1,10 @@
+digraph G {
+"world" -> "cf_4"[label=" Broadcaster: default_authority\nAverage rate: 50.462\nBuffer length: 2.279\nMost recent transform: 1714644380.827678\nOldest transform: 1714644378.548731\n"];
+"world" -> "cf_3"[label=" Broadcaster: default_authority\nAverage rate: 50.461\nBuffer length: 2.279\nMost recent transform: 1714644380.828428\nOldest transform: 1714644378.549434\n"];
+"world" -> "cf_1"[label=" Broadcaster: default_authority\nAverage rate: 50.465\nBuffer length: 2.259\nMost recent transform: 1714644380.818056\nOldest transform: 1714644378.559045\n"];
+"world" -> "cf_2"[label=" Broadcaster: default_authority\nAverage rate: 50.464\nBuffer length: 2.259\nMost recent transform: 1714644380.819371\nOldest transform: 1714644378.560351\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1714644380.8320704"[ shape=plaintext ] ;
+}->"world";
+}

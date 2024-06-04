@@ -1,0 +1,1 @@
+/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/motion_capture_tracking_interfaces/rosidl_generator_c/motion_capture_tracking_interfaces/msg/detail/named_pose__type_support.h

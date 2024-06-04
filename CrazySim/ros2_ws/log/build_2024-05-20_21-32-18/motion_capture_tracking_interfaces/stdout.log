@@ -1,0 +1,8 @@
+[  2%] Built target motion_capture_tracking_interfaces__cpp
+[ 12%] Built target motion_capture_tracking_interfaces__rosidl_generator_c
+[35m[1mConsolidate compiler generated dependencies of target motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c[0m
+[35m[1mConsolidate compiler generated dependencies of target motion_capture_tracking_interfaces__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[ 33%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_cpp
+[ 33%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_introspection_c
+[ 43%] Built target motion_capture_tracking_interfaces__rosidl_typesupport_fastrtps_cpp

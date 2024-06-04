@@ -1,0 +1,107 @@
+[0.156s] Invoking command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie': AMENT_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie -- -j16 -l16
+[0.175s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.263s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.284s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.285s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.288s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.295s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.303s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.343s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.344s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.442s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.542s] -- Found tf2_ros: 0.25.6 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.776s] -- Found rclpy: 3.3.12 (/opt/ros/humble/share/rclpy/cmake)
+[0.776s] -- Found std_srvs: 4.2.3 (/opt/ros/humble/share/std_srvs/cmake)
+[0.790s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.841s] -- Found crazyflie_interfaces: 2.0.0 (/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/share/crazyflie_interfaces/cmake)
+[0.890s] -- Found motion_capture_tracking_interfaces: 1.0.5 (/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/share/motion_capture_tracking_interfaces/cmake)
+[0.997s] -- Configuring done
+[1.036s] -- Generating done
+[1.041s] -- Build files have been written to: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie
+[1.071s] [35m[1mConsolidate compiler generated dependencies of target teleop[0m
+[1.072s] [35m[1mConsolidate compiler generated dependencies of target crazyflieLinkCpp[0m
+[1.090s] [  8%] [32mBuilding CXX object CMakeFiles/teleop.dir/src/teleop.cpp.o[0m
+[1.090s] [ 27%] Built target crazyflieLinkCpp
+[1.100s] [35m[1mConsolidate compiler generated dependencies of target crazyflie_cpp[0m
+[1.113s] [ 36%] Built target crazyflie_cpp
+[1.124s] [35m[1mConsolidate compiler generated dependencies of target console[0m
+[1.124s] [35m[1mConsolidate compiler generated dependencies of target listMemories[0m
+[1.124s] [35m[1mConsolidate compiler generated dependencies of target crazyflie_server[0m
+[1.124s] [35m[1mConsolidate compiler generated dependencies of target version[0m
+[1.124s] [35m[1mConsolidate compiler generated dependencies of target reboot[0m
+[1.125s] [35m[1mConsolidate compiler generated dependencies of target battery[0m
+[1.125s] [35m[1mConsolidate compiler generated dependencies of target scan[0m
+[1.125s] [35m[1mConsolidate compiler generated dependencies of target listLogVariables[0m
+[1.126s] [35m[1mConsolidate compiler generated dependencies of target listParams[0m
+[1.128s] [35m[1mConsolidate compiler generated dependencies of target setParam[0m
+[1.131s] [35m[1mConsolidate compiler generated dependencies of target log[0m
+[1.149s] [ 52%] [32mBuilding CXX object CMakeFiles/crazyflie_server.dir/src/crazyflie_server.cpp.o[0m
+[1.149s] [ 55%] Built target listMemories
+[1.149s] [ 55%] Built target reboot
+[1.149s] [ 61%] Built target version
+[1.149s] [ 55%] Built target listLogVariables
+[1.149s] [ 66%] Built target console
+[1.150s] [ 72%] Built target scan
+[1.152s] [ 77%] Built target listParams
+[1.153s] [ 86%] Built target setParam
+[1.154s] [ 88%] Built target log
+[1.156s] [ 94%] Built target battery
+[10.524s] [ 97%] [32m[1mLinking CXX executable teleop[0m
+[11.009s] [ 97%] Built target teleop
+[18.959s] [100%] [32m[1mLinking CXX executable crazyflie_server[0m
+[20.184s] [100%] Built target crazyflie_server
+[20.194s] Invoked command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie' returned '0': AMENT_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie -- -j16 -l16
+[20.235s] Invoking command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie': AMENT_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie
+[20.241s] -- Install configuration: ""
+[20.241s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/scan
+[20.242s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/listParams
+[20.242s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/listLogVariables
+[20.243s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/listMemories
+[20.243s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/reboot
+[20.243s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/battery
+[20.244s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/version
+[20.244s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/console
+[20.245s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/log
+[20.245s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/setParam
+[20.245s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/teleop
+[20.255s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/teleop" to ""
+[20.255s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/crazyflie_server
+[20.276s] -- Set runtime path of "/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/crazyflie_server" to ""
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/crazyflie_server.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/chooser.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/vel_mux.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/cfmult.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/cf_tf_follower.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/cf_listener.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/move_cf_tf.py
+[20.276s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/cf_move.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/lib/crazyflie/multiagent_cf_move.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/launch_teleop2.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/start_tf_fixes.launch.xml
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/teleop_launch.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/publish_static_transform_cf_to_world.launch.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/__pycache__
+[20.277s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/__pycache__/launch.cpython-310.pyc
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/launch.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//launch/follower.launch.py
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config/config.rviz
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config/crazyflies.yaml
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config/teleop.yaml
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config/motion_capture.yaml
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie//config/server.yaml
+[20.277s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/ament_index/resource_index/package_run_dependencies/crazyflie
+[20.277s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/ament_index/resource_index/parent_prefix_path/crazyflie
+[20.277s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/environment/ament_prefix_path.dsv
+[20.277s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/environment/path.dsv
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/local_setup.bash
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/local_setup.sh
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/local_setup.zsh
+[20.278s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/local_setup.dsv
+[20.278s] -- Installing: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/package.dsv
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/ament_index/resource_index/packages/crazyflie
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/cmake/crazyflieConfig.cmake
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/cmake/crazyflieConfig-version.cmake
+[20.278s] -- Up-to-date: /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie/share/crazyflie/package.xml
+[20.279s] Invoked command in '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie' returned '0': AMENT_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces:/opt/ros/humble LD_LIBRARY_PATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/local/lib/python3.10/dist-packages:/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie

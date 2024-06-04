@@ -1,0 +1,28 @@
+[0.548s] Invoking command in '/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc': AMENT_PREFIX_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_py:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces LD_LIBRARY_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/prefix_override:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages:/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_py:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_py/lib/python3.10/site-packages:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/build --no-deps symlink_data
+[0.781s] running develop
+[0.782s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.782s]   warnings.warn(
+[0.936s] running egg_info
+[0.936s] creating crazyflie_mpc.egg-info
+[0.936s] writing crazyflie_mpc.egg-info/PKG-INFO
+[0.937s] writing dependency_links to crazyflie_mpc.egg-info/dependency_links.txt
+[0.937s] writing entry points to crazyflie_mpc.egg-info/entry_points.txt
+[0.937s] writing requirements to crazyflie_mpc.egg-info/requires.txt
+[0.937s] writing top-level names to crazyflie_mpc.egg-info/top_level.txt
+[0.937s] writing manifest file 'crazyflie_mpc.egg-info/SOURCES.txt'
+[0.939s] reading manifest file 'crazyflie_mpc.egg-info/SOURCES.txt'
+[0.940s] writing manifest file 'crazyflie_mpc.egg-info/SOURCES.txt'
+[0.941s] running build_ext
+[0.941s] Creating /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages/crazyflie-mpc.egg-link (link to .)
+[0.942s] Installing crazyflie_multiagent_mpc script to /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/lib/crazyflie_mpc
+[0.942s] 
+[0.943s] Installed /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc
+[0.943s] running symlink_data
+[0.943s] creating /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/ament_index
+[0.943s] creating /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/ament_index/resource_index
+[0.943s] creating /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/ament_index/resource_index/packages
+[0.943s] symbolically linking /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/resource/crazyflie_mpc -> /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/ament_index/resource_index/packages
+[0.943s] symbolically linking /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/package.xml -> /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/crazyflie_mpc
+[0.943s] creating /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/crazyflie_mpc/launch
+[0.943s] symbolically linking /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/launch/crazyflie_multiagent_mpc_launch.py -> /home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/share/crazyflie_mpc/launch
+[0.991s] Invoked command in '/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc' returned '0': AMENT_PREFIX_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_py:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces LD_LIBRARY_PATH=/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/prefix_override:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages:/home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_py:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_py/lib/python3.10/site-packages:/home/zyf/crazyflies/CrazySim/ros2_ws/install/crazyflie_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/zyf/crazyflies/CrazySim/ros2_ws/build/crazyflie_mpc/build --no-deps symlink_data

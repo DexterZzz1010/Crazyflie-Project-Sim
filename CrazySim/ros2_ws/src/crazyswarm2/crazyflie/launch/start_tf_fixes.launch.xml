@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+    <include file="$(find-pkg-share crazyflie)/launch/publish_static_transform_cf_to_world.launch.py"/>
+
+    <node pkg="crazyflie" exec="crazyflies_to_tf_pub_late_tf_fixed.py" name="cf_to_tf_broadcaster_node">
+    </node>
+
+    <node pkg="crazyflie" exec="move_cf_tf.py" name="move_cf_tf_node">
+    </node>
+
+</launch>

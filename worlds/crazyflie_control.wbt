@@ -1,0 +1,28 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/robots/bitcraze/crazyflie/protos/Crazyflie.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.27712568673645527 0.30632438854052263 0.9106957355429546 1.5641794154819637
+  position -0.31315414091028526 -3.3310759088836566 2.3807354749365772
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+}
+Crazyflie {
+  rotation -0.7071082504597282 0.7071053116925373 -1.7549418762809948e-05 0.012885711853560603
+  controller "controller_pid"
+  supervisor TRUE
+  extensionSlot [
+    Accelerometer {
+    }
+  ]
+}

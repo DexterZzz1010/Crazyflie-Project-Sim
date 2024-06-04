@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/crazyflie_mpc/crazyflie_mpc.egg-info/PKG-INFO
+writing dependency_links to ../../build/crazyflie_mpc/crazyflie_mpc.egg-info/dependency_links.txt
+writing entry points to ../../build/crazyflie_mpc/crazyflie_mpc.egg-info/entry_points.txt
+writing requirements to ../../build/crazyflie_mpc/crazyflie_mpc.egg-info/requires.txt
+writing top-level names to ../../build/crazyflie_mpc/crazyflie_mpc.egg-info/top_level.txt
+reading manifest file '../../build/crazyflie_mpc/crazyflie_mpc.egg-info/SOURCES.txt'
+writing manifest file '../../build/crazyflie_mpc/crazyflie_mpc.egg-info/SOURCES.txt'
+running build
+running build_py
+copying crazyflie_mpc/trajectory_tracking_mpc.py -> /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie_mpc/build/lib/crazyflie_mpc
+running install
+running install_lib
+copying /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie_mpc/build/lib/crazyflie_mpc/trajectory_tracking_mpc.py -> /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages/crazyflie_mpc
+byte-compiling /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages/crazyflie_mpc/trajectory_tracking_mpc.py to trajectory_tracking_mpc.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages/crazyflie_mpc-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/crazyflie_mpc/crazyflie_mpc.egg-info to /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc/lib/python3.10/site-packages/crazyflie_mpc-0.0.0-py3.10.egg-info
+running install_scripts
+Installing crazyflie_multiagent_mpc script to /home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/install/crazyflie_mpc/lib/crazyflie_mpc
+writing list of installed files to '/home/zyf/crazyflies/group-crazyflie-1/test/sim_test/CrazySim/ros2_ws/build/crazyflie_mpc/install.log'
